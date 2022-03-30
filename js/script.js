@@ -1,3 +1,10 @@
+//question 1
+
+const animal = "cat";
+
+//question 2
+
+
 const cats = [
     {
         name: "Blob",
